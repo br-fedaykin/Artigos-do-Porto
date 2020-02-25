@@ -1,8 +1,180 @@
-Deduções Filosóficas
+# Deduções Filosóficas
 
-(Por Alexandre Porto, 2018. Editado em janeiro, 2020)
+Por Alexandre Porto, 2018. Editado em janeiro, 2020
 
-- Filosofia
+## SUMÁRIO
+
+Clique para expandir
+
+<details><summary> <strong>Parte 1</strong> </summary>
+
+- [Filosofia](#Filosofia)
+- [A Proposição (Teoria Proposicional)](#A-Proposição-Teoria-Proposicional)
+- [Conceito](#Conceito)
+- [Definição](#Definição)
+- [Pseudo-Linguagem](#Pseudo-linguagem)
+- [Lógica](#Lógica)
+- [Intencionalidade e Referência](#Intencionalidade-e-Referência)
+- [Verdade](#Verdade)
+- [Existência](#Existência)
+- [Consciência](#Existência)
+- [Ação](#Ação)
+- [Categorias da Ação](#Categorias-da-ação)
+
+</details>
+
+<br>
+
+<details><summary> <strong>Parte 2</strong> </summary>
+
+- [Crença](#Crença)
+- [Desejo](#Desejo)
+- [Indução](#Indução)
+- [Fim](#Fim)
+- [Meio](#Meio)
+- [Intenção](#Intenção)
+- [Causalidade (física e mental)](#Causalidade-física-e-mental)
+- [Energia](#Energia)
+- [Existência (Quantificação)](#Existência-Quantificação)
+- [Valor (Preferência)](#Valor-Preferência)
+- [Escolha](#Escolha)
+- [Sucesso e Fracasso](Sucesso-e-Fracasso)
+- [Satisfação](#Satisfação)
+- [Espaço](#Espaço)
+- [Demonstração do status condicional, a priori e interno do espaço](#Demonstração-do-status-condicional-a-priori-e-interno-do-espaço)
+- [Tempo](#Tempo)
+- [Verdade](#Verdade)
+- [Conhecimento](#Conhecimento)
+</details>
+
+<br>
+
+<details><summary> <strong>Parte 3</strong> </summary>
+
+- [Epistemologia]
+  - [O que é conhecimento?](#O-que-é-conhecimento)
+  - [Demonstração do Conhecimento](#Demonstração-do-Conhecimento)
+- [Distinções Epistemológicas](#Distinções-Epistemológicas)
+  - [Demonstração das Distinções](#Demonstração-das-Distinções)
+    - [Distinção Condicional-Fatual](#Distinção-Condicional-Fatual)
+      - [Conhecimento Condicional](#Conhecimento-Condicional)
+      - [Conhecimento Fatual](#Conhecimento-Fatual)
+      - [Demonstração de que sentenças analíticas, modais, imperativas, interrogativas ou normativas são redutíveis a proposições fatuais e condicionais (ou nonsense)](#Demonstração-de-que-sentenças-analíticas-modais-imperativas-interrogativas-ou-normativas-são-redutíveis-a-proposições-fatuais-e-condicionais-(ou-nonsense))
+    - [Distinção A Priori-A Posteriori](#Distinção-A-Priori-A-Posteriori)
+      - [Conhecimento A Priori](#Conhecimento-A-Priori)
+      - [Conhecimento A Posteriori](#Conhecimento-A-Posteriori)
+    - [Distinção Interno-Externo](#Distinção-Interno-Externo)
+      - [Conhecimento Interno](#Conhecimento-Interno)
+      - [Conhecimento Externo](#Conhecimento-Externo)
+      - [Proposições Internas-Externas](#Proposições-Internas-Externas)
+  - [Exemplos](#Exemplos)
+  - [Modos de objetividade e subjetividade](#Modos-de-objetividade-e-subjetividade)
+    - [Ontológico Objetivo e Subjetivo](#Ontológico-Objetivo-e-Subjetivo)
+    - [Epistêmico Objetivo e Subjetivo](#Epistêmico-Objetivo-e-Subjetivo)
+  - [Certeza e Incerteza](#Certeza-e-Incerteza)
+</details>
+
+<br>
+
+<details><summary> <strong>Parte 4</strong> </summary>
+
+- [Metodologia Epistemológica](#Metodologia-Epistemológica)
+  - [Demonstração dos Métodos Epistemológicos](#Demonstração-dos-Métodos-Epistemológicos)
+    - [Razão Pura: Método A Priori (Dedução)](#Razão-Pura:-Método-A-Priori-(Dedução))
+    - [Experiência: Método A Posteriori (Indução)](#Experiência:-Método-A-Posteriori-(Indução))
+  - [Distinção Fenômeno-Númeno](#Distinção-Fenômeno-Númeno)
+    - [Ilusão](#Ilusão)
+  - [Ciências Naturais](#Ciências-Naturais)
+  - [Estudo da mente](#Estudo-da-mente)
+  - [Memória](#Memória)
+  - [Argumentos e Tautologias](#Argumentos-e-Tautologias)
+  - [Crença Verdadeira Justificada](#Crença-Verdadeira-Justificada)
+- [Fatos a Priori](#Fatos-a-Priori)
+</details>
+
+<br>
+
+<details><summary> <strong>Parte 5</strong> </summary>
+
+- [Ontologia](#Ontologia)
+  - [Substância](#Substância)
+  - [Causalidade](#Causalidade)
+    - [Energia](#Energia)
+    - [Aleatoriedade](#Aleatoriedade)
+    - [Determinismo vs. Livre Arbítrio](#Determinismo-vs.-Livre-Arbítrio)
+  - [Por que Metafísica é Importante?](#Por-que-Metafísica-é-Importante)
+- [A visão de mundo cientificista](#A-visão-de-mundo-cientificista)
+  - [Refutação do Idealismo](#Refutação-do-Idealismo)
+  - [Interação Psico-Física](#Interação-Psico-Física)
+    - [Determinismo Psico-Físico](#Determinismo-Psico-Físico)
+</details>
+
+<br>
+
+<details><summary> <strong>Parte 6</strong> </summary>
+
+- [Economia](#Economia)
+- [Valor Econômico](#Valor-Econômico)
+  - [Poupança](#Poupança)
+    - [Investimento](#Investimento)
+      - [Custo de Oportunidade](#Custo-de-Oportunidade)
+      - [Produção](#Produção)
+        - [Consumo](#Consumo)
+        - [Custo](#Custo)
+          - [Eficiência](#Eficiência)
+            - [Tecnologia](#Tecnologia)
+  - [Trocas](#Trocas)
+    - [Troca interpessoal](#Troca-interpessoal)
+      - [Mercado](#Mercado)
+        - [Divisão do Trabalho](#Divisão-do-Trabalho)
+  - [leis econômicas](#leis-econômicas)
+    - [Lei da Utilidade Marginal Decrescente](#Lei-da-Utilidade-Marginal-Decrescente)
+    - [Lei de Oferta e Demanda](#Lei-de-Oferta-e-Demanda)
+    - [Lei de Retornos](#Lei-de-Retornos)
+    - [Lei da Associação](#Lei-da-Associação)
+- [Teoria Monetária](#Teoria-Monetária)
+  - [Dinheiro](#Dinheiro)
+    - [Moeda](#Moeda)
+      - [Moeda forte](#Moeda-forte)
+      - [Características Monetárias](#Características-Monetárias)
+        - [Portabilidade](#Portabilidade)
+        - [Divisibilidade](#Divisibilidade)
+        - [Escassez](#Escassez)
+        - [Fungibilidade](#Fungibilidade)
+        - [Durabilidade](#Durabilidade)
+        - [Ocultabilidade](#Ocultabilidade)
+      - [Valor Monetário](#Valor-Monetário)
+      - [Dominância Monetária](#Dominância-Monetária)
+    - [Deflação e Inflação](#Deflação-e-Inflação)
+      - [Dinheiro como investimento](#Dinheiro-como-investimento)
+- [Lucro e Prejuízo](#Lucro-e-Prejuízo)
+  - [Cálculo Econômico](#lculo-Econômico)
+    - [Sistemas de Preços](#Sistemas-de-Preços)
+      - [Sociedade de Propriedade Privada](#)Sociedade de Propriedade Privada
+        - [Sociedade Anti-Ética](#Sociedade-Anti-Ética)
+        - [Coerção](#Coerção)
+        - [Livre Mercado](#Livre-Mercado)
+        - [Monopólio](#Monopólio)
+- [Ética](#Ética)
+  - [Apropriação](#Apropriação)
+    - [Armazenamento](#Armazenamento)
+    - [Abandono](#Abandono)
+    - [Demarcação](#Demarcação)
+      - [Transferência](#Transferência)
+        - [Contrato](#Contrato)
+      - [Violação da Lei](#Violação-da-Lei)
+        - [Punição](#Punição)
+        - [Julgamento](#Julgamento)
+  - [Ideias e Propriedade](#Ideias-e-Propriedade)
+- [Moral](#Moral)
+  - [Dever](#Dever)
+  - [Boa Vontade](#Boa-Vontade)
+  - [Conhecimento Moral](#Conhecimento-Moral)
+  - [Amor e ódio](#Amor-e-ódio)
+    - [Refutação do Utilitarismo](#Refutação-do-Utilitarismo)
+</details>
+
+## Filosofia
 
 A filosofia é o estudo daqueles conhecimentos que podem ser conhecidos pelo método da dedução.
 
@@ -16,13 +188,13 @@ A própria possibilidade da proposição é a primeira proposição auto-provada
 
 Dessa forma, encontrando uma proposição auto-provada, podemos sair do estado de total incerteza e obter um primeiro conhecimento dedutivo. Deste ponto de partida, podemos continuar fazendo mais deduções.
 
-- A Proposição (Teoria Proposicional)
+## A Proposição (Teoria Proposicional)
 
 A unidade indecomponível de linguagem com significado é a proposição. Em outras palavras, a unidade de linguagem que afirma ou nega algo é a proposição. Para todo x, tal que x é uma afirmação ou uma negação, x é uma proposição.
 
 Proposições se constituem de conceitos interligados entre si.
 
--- Conceito
+## Conceito
 
 O conceito é a referência que a mente faz a uma coisa.
 
@@ -64,7 +236,7 @@ Quanto mais explícita a linguagem, mais restrita.
 
 Uma linguagem expressa totalmente explícita seria aquela em que cada palavra corresponde estritamente a um conceito.
 
-- Definição
+## Definição
 
 Uma proposição (incluindo cada um de seus termos) precisa ser totalmente e precisamente definida, sem ambiguidade.
 
@@ -76,7 +248,7 @@ Essa é a função semântica das palavras “este”, “isto”, “aquele”,
 
 Seria impraticável tornar explícita toda linguagem do dia-a-dia. Uma única expressão verbal pode insinuar centenas (ou mais) de conteúdos proposicionais implicitamente.
 
-- Pseudo-linguagem
+## Pseudo-linguagem
 
 Ruídos, grunhidos e linguagem corporal que não sejam interpretados como conteúdo proposicional não se encaixam na definição de linguagem usada aqui.
 
@@ -84,7 +256,7 @@ Comunicação feita por inteligências artificiais não-conscientes também não
 
 A inteligência artificial não-consciente funciona apenas pelas leis da física, sendo programada para funcionar de forma que pareça significativa quando interpretada por um ser consciente. Mas não há qualquer significado na comunicação pelo ponto de vista da IA. Nem sequer existe um ponto de vista na IA, pois esse ponto de vista depende de um observador, ou seja, da consciência.
 
-- Lógica
+## Lógica
 
 A lógica é simplesmente a estrutura da linguagem. Regra que a linguagem não pode quebrar, e que se quebrada, faz com que a linguagem perca o significado.
 
@@ -108,7 +280,7 @@ A lógica, assim como a matemática, não é uma convenção. Uma convenção é
 
 A essência da linguagem é o seu conteúdo, e não sua forma. O significado proposicional é o conteúdo linguístico.
 
-- Intencionalidade e Referência
+## Intencionalidade e Referência
 
 Intencionalidade é a característica de uma coisa se referir a outra coisa. Apenas estados mentais (estados de consciência) se referem a coisas. Coisas físicas (inconscientes) não se referem a nada, elas apenas interagem causalmente de forma natural (não-proposital).
 
@@ -118,7 +290,7 @@ Proposições se constituem de conceitos, que são referências. Logo, todo cont
 
 A conexão entre os conceitos que compõem uma proposição se constitui de referência.
 
-- Verdade
+## Verdade
 
 A verdade é a correspondência do conteúdo da proposição à realidade, e a falsidade é a não-correspondência entre elas.
 
@@ -138,7 +310,7 @@ Tampouco a realidade (o que existe) é verdadeira. O que pode ser verdadeiro, ta
 
 Aquilo que existe (exceto proposições) não é verdadeiro nem falso, apenas existe. Uma proposição se refere a algo, e por isso essa referência pode corresponder ou não a algo real. Essa correspondência é que pode ser verdadeira ou falsa, e não a coisa em si separada da proposição.
 
-- Existência
+## Existência
 
 Existência é um quantificador na proposição. Não é um aspecto do mundo real e nem de substâncias, sujeitos ou objetos. Afirmar que algo existe significa simplesmente quantificar esse algo como sua quantidade sendo maior que zero no mundo.
 
@@ -153,7 +325,7 @@ Dizer “x existe” ou “x não existe” é quantifcar x. Não existe uma coi
 
 Logo, é errado afirmar que “A existência existe" seja um axioma. Essa frase não significa nada. Não existe uma coisa que possa ser chamada de existência além da própria característica de proposições quantificarem conceitos. Postular existência como propriedade de objetos ou do mundo é um erro de linguagem, um uso errado da linguagem.
 
-- Consciência
+## Consciência
 
 Consciência é a característica de tudo que existe em primeira pessoa, no próprio observador. Os estados mentais (estados de consciência) podem se referir a algo e carregar significado, ao contrário dos estados físicos, que não se referem a nada e apenas seguem leis regulares naturais cegamente.
 
@@ -167,7 +339,7 @@ Assim como objetos físicos são compostos de partículas físicas, sujeitos con
 
 A palavra “eu” também se refere ao sujeito, mas apenas ao próprio sujeito que faz a referência. As palavras “indivíduo, sujeito, etc.” podem se referir a outros sujeitos em terceira pessoa.
 
-- Ação
+## Ação
 
 Se uma proposição é feita conscientemente, então a proposição demonstra que a mente pode causar efeitos conscientemente.
 
@@ -205,12 +377,12 @@ Como toda proposição é uma ação, as categorias da ação estão pressuposta
 
 Por isso, para se tentar negar as categorias da ação, elas precisam estar pressupostas na negação, logo a negação delas resulta numa contradição, demonstrando sua existência.
 
-- Categorias da ação
+## Categorias da ação
 
 
 Categorias da ação são os conceitos implícitos e necessários para toda ação.
 
--- Crença
+### Crença
 
 Crença é o pensamento, ou a tendência de um indivíduo pensar que uma certa proposição seja verdadeira, ou que uma certa proposição seja falsa.
 
@@ -222,19 +394,19 @@ Crenças pressupõem linguagem, pois são conteúdos proposicionais. A ação é
 
 A linguagem pode ser implícita. Uma mente pode conceber um conteúdo proposicional mesmo sem formular formalmente a proposição usando um idioma.
 
--- Desejo
+### Desejo
 
 Desejo é a crença de que um estado de coisas traria satisfação ao próprio indivíduo.
 
--- Indução
+### Indução
 
 A indução é a crença de que o mesmo tipo de causa resulta no mesmo tipo de efeito, causas semelhantes tendem a resultar em efeitos semelhantes, e efeitos semelhantes tendem a resultar de causas semelhantes.
 
--- Fim
+### Fim
 
 Fim é o desejo mais valorizado que a mente acredita poder satisfazer através da sua próxima ação. Toda ação visa alcançar o fim.
 
--- Meio
+### Meio
 
 Meio é um estado de coisas que a mente acredita que pode alterar, resultando em estados de coisas desejados.
 
@@ -246,23 +418,23 @@ Todos os meios da ação são escassos. Se os meios de uma ação não fossem es
 
 Recursos intelectuais, como receitas, formas e conhecimentos usados na ação não são meios, mas sim o papel, computador, pessoa, etc que os têm registrados. O meio de se registrar uma ideia sempre é escasso, mas a ideia em si não é escassa, pois pode ser reproduzida infinitamente, enquanto houver meios de reproduzi-la.
 
--- Intenção
+### Intenção
 
 Intenção é o desejo de agir no futuro para alcançar um certo fim.
 
--- Causalidade (física e mental)
+### Causalidade (física e mental)
 
 A ação é a alteração causada pela vontade da mente em um estado de coisas. Ou seja, pressupõe uma causa consciente de um efeito.
 
 A ação pressupõe causas inconscientes (físicas) também, pois elas limitam a ação, e sendo as coisas físicas escassas, o indivíduo sempre tem desejos não-satisfeitos, e tenta alcançá-los alterando os fatos pela sua vontade.
 
--- Energia
+### Energia
 
 Energia é o potencial de mudança, ou potencial causal. Ou seja, o potencial de se causar efeitos.
 
 Todo meio da ação é baseado em energia.
 
--- Existência (Quantificação)
+### Existência (Quantificação)
 
 Toda ação pressupõe a ideia de existência, que é a quantificação de uma coisa no mundo.
 
@@ -270,13 +442,13 @@ Em toda ação, o indivíduo considera que seu meio existe, e será alterado par
 
 Logo, são condição necessária de toda ação os conceitos de existir, vir a existir, não existir, deixar de existir. Esses conceitos de existência (quantificação), também podem ser representados, respectivamente, como 1, +1, 0 e -1.
 
--- Valor (Preferência)
+### Valor (Preferência)
 
 O indivíduo valoriza seus desejos em uma escala, desde o primeiro mais valorizado, o segundo, etc. e escolhe o desejo mais valorizado que ele acredita poder conseguir através da ação como o fim da sua ação.
 
 Da mesma forma, o indivíduo valoriza os meios que ele acredita poderem levá-lo ao seu fim em uma escala de preferências, e escolhe o meio que ele acredita ser mais eficiente em alcançar seu fim.
 
--- Escolha
+### Escolha
 
 Escolha é a determinação de uma dentre várias alternativas.
 
@@ -292,7 +464,7 @@ A mente não pode tomar a decisão de não agir, pois essa decisão seria uma a�
 
 Logo, uma mente capaz de agir sempre age.
 
--- Sucesso e Fracasso
+### Sucesso e Fracasso
 
 A ação é bem sucedida quando os meios alcançam o fim e quando o fim traz satisfação, e fracassada quando uma dessas duas condições não acontece.
 
@@ -310,13 +482,13 @@ Logo, não existe funcionalidade na natureza. As ciências naturais podem se ref
 
 Logo, função não pode ser a causa do observador. Isso refuta o funcionalismo (hipótese de que funcionalidade causa a mente ou estados mentais).
 
--- Satisfação
+### Satisfação
 
 Todo desejo busca a satisfação, todo fim da ação é a realização de um desejo.
 
 A satisfação plena é impossível, pois o indivíduo não poderia ter mais desejos, e portanto não agiria.
 
--- Espaço
+### Espaço
 
 A estrutura do entendimento da mente sobre a configuração de objetos (estados de coisas físicos) se chama espaço.
 
@@ -326,7 +498,7 @@ Logo, toda ação sobre objetos depende de experiências dentro da categoria de 
 
 O espaço não é percebido diretamente pelos sentidos, mas é uma estrutura subjacente na interpretação de todos os dados sensoriais.
 
---- Demonstração do status condicional, a priori e interno do espaço
+#### Demonstração do status condicional, a priori e interno do espaço
 
 O espaço é inteligível apenas em medidas, e medidas são matemáticas (quantitativas).
 
@@ -336,7 +508,7 @@ Se o espaço fosse externo, a matemática seria externa.
 
 Logo, o espaço é interno, condição da possibilidade da percepção, e não um objeto externo.
 
--- Tempo
+### Tempo
 
 Toda ação depende do tempo. Ela sempre se constitui do uso de um meio no presente para se alcançar um fim no futuro.
 
@@ -344,11 +516,11 @@ O tempo em si não é escasso, mas a eficiência de um recurso escasso em um det
 
 Assim como o espaço, o tempo não pode ser percebido diretamente. A mente apenas percebe fenômenos sequencialmente, e os interpreta dentro da estrutura de tempo.
 
--- Verdade
+### Verdade
 
 As crenças precisam ser verdadeiras para que a ação seja bem sucedida.
 
--- Conhecimento
+### Conhecimento
 
 O indivíduo precisa justificar a verdade de suas crenças, caso contrário, não poderia prever os resultados da sua ação. Conhecimento é a justificação do valor-verdade de proposições.
 
@@ -356,7 +528,7 @@ O indivíduo precisa justificar a verdade de suas crenças, caso contrário, nã
 
 Epistemologia é o estudo do conhecimento.
 
--- O que é conhecimento?
+### O que é conhecimento?
 
 Há uma diferença entre pensar em uma proposição, acreditar numa proposição (ter uma crença) e conhecer uma proposição.
 
@@ -374,7 +546,7 @@ Conhecimento é a justificação do valor-verdade de proposições.
 
 Tipos diferentes de proposições precisam ser justificados por métodos diferentes.
 
---- Demonstração do Conhecimento
+#### Demonstração do Conhecimento
 
 Toda ação é um comportamento consciente pelo qual o indivíduo espera alcançar um resultado desejado. Para isso, o indivíduo deve ser capaz de prever o resultado de sua ação. Se o indivíduo não pudesse fazer isso, a ação seria inútil, e se o indivíduo acreditasse que é inútil agir, ele não agiria.
 
@@ -386,9 +558,9 @@ Logo, a ação pressupõe a crença na possibilidade de justificar proposições
 
 Logo, é contraditório negar o conhecimento, já que a própria negação é uma ação, na qual está implícita a crença (afirmação) de que existe conhecimento.
 
----- Distinções Epistemológicas
+##### Distinções Epistemológicas
 
-* Demonstração das Distinções
+###### Demonstração das Distinções
 
 Para que a mente aja, ela precisa distinguir entre diferentes tipos de conceitos e proposições.
 
@@ -402,17 +574,17 @@ Logo, as distinções condicional-fatual, a priori-a posteriori e interno-extern
 
 Logo, todo conhecimento se divide nessas distinções.
 
-* Distinção Condicional-Fatual
+###### Distinção Condicional-Fatual
 
 Conhecimentos fatuais dizem que algo existe ou não existe (dizem a quantidade de algo no mundo), e conhecimentos condicionais dizem que há alguma condição da possibilidade da existência ou não-existência de algo.
 
-*- Conhecimento Condicional
+###### Conhecimento Condicional
 
 Conhecimentos condicionais dizem que uma certa coisa é condição da existência de outra.
 
 Toda proposição condicional pode ser formulada como “para toda quantidade x de y no mundo, há a quantidade w de z”, onde x e w são números inteiros.
 
-*- Conhecimento Fatual
+###### Conhecimento Fatual
 
 Proposições fatuais são quantitativas, pois elas dizem a quantidade de algo no mundo.
 
@@ -426,13 +598,15 @@ Tudo que pode ser justificado como existente por um sujeito, apenas o pode porqu
 
 Existência é quantificação, logo toda proposição fatual é uma quantificação, que pode ser formulada como “a quantidade de x no mundo é y”, onde y é um número inteiro.
 
-*- Demonstração de que sentenças analíticas, modais, imperativas, interrogativas ou normativas são redutíveis a proposições fatuais e condicionais (ou nonsense):
+###### Demonstração de que sentenças analíticas, modais, imperativas, interrogativas ou normativas são redutíveis a proposições fatuais e condicionais (ou nonsense)
 
 Sentenças consideradas analíticas, modais, imperativas, interrogativas ou normativas não são tipos fundamentais de proposições, mas sim construções linguísticas secundárias redutíveis a tipos fundamentais, são formas contingentes de se comunicar e não uma estrutura necessária de proposições.
 
 Abaixo, a demonstração de como cada uma dessas formas pode ser reduzida a apenas proposições fatuais, condicionais ou nonsense:
 
-*-- Analítica: Sentenças analíticas são tautologias, pois o predicado está dito no sujeito da sentença. Elas não afirmam ou negam nada, e portanto são nonsense.
+###### Analítica
+
+Sentenças analíticas são tautologias, pois o predicado está dito no sujeito da sentença. Elas não afirmam ou negam nada, e portanto são nonsense.
 
 Uma forma de expor isso é pelo fato de que, em uma tautologia, o predicado já está incluído, e não adiciona nada, ao sujeito. Logo, ao se remover o predicado da sentença, nada muda no seu significado. E uma sentença com apenas o sujeito é um nonsense, e logo tautologias também são nonsense.
 
@@ -446,15 +620,21 @@ Por exemplo, algumas proposições neste texto não são dedutivas, mas sim defi
 
 Por esse motivo, este texto rejeita a "lei da identidade", considerada desde Aristóteles como uma lei da lógica, pois "A = A" é uma tautologia, onde o predicado já está contido no sujeito. Dizer "A = A" é exatamente o mesmo que dizer apenas "A", ou "A = A = A", e portanto é nonsense.
 
-*-- Imperativa: "Faça x" pode ser reduzido a "eu quero que você faça x" (fatual), ou "se você fizer x, isso terá uma certa consequência desejável" (condicional).
+###### Imperativa
+
+"Faça x" pode ser reduzido a "eu quero que você faça x" (fatual), ou "se você fizer x, isso terá uma certa consequência desejável" (condicional).
 
 Qualquer tentativa de demonstrar a imperatividade como semanticamente irredutível, e independente da vontade do interlocutor e das consequências da ação ordenada, não pode fazer sentido, pois nada constitui uma justificação para um comando imperativo além desses fatores.
 
-*-- Interrogativa: “Está chovendo?” pode ser reduzido a “eu quero saber se está chovendo”, ou “eu quero que você me diga se está chovendo”.
+###### Interrogativa
+
+“Está chovendo?” pode ser reduzido a “eu quero saber se está chovendo”, ou “eu quero que você me diga se está chovendo”.
 
 Da mesma forma, não se pode demonstrar o modo interrogativo como irredutível e independente do desejo por uma informação, ou das consequências caso os ouvintes dêem, ou não, essa informação.
 
-*-- Normativa: "Deve-se fazer x" pode ser reduzido a "a ação x produz um resultado y desejável", "a ação x produz o bem", ou "a ação x tende a produzir o bem" (condicionais).
+###### Normativa
+
+"Deve-se fazer x" pode ser reduzido a "a ação x produz um resultado y desejável", "a ação x produz o bem", ou "a ação x tende a produzir o bem" (condicionais).
 
 Alguns usam o modo da promessa como exemplo de um modo de proposição que seria intrinsecamente normativo. Mas uma promessa também depende de condições para que faça sentido, "eu prometo fazer x" só é uma proposição com significado na medida em que se baseia na confiança e reputação da pessoa que promete, que são testadas pelo quanto a promessa será cumprida. Uma promessa entendida como um mero dever incondicional, dissociado de relações sociais, valores morais ou funcionalidades, é apenas nonsense.
 
@@ -462,19 +642,21 @@ O dever, portanto, só faz sentido dentro dos fatos e condições vinculados a u
 
 Logo, a ideia de “dever absoluto”, “dever incondicional”, ou “imperativo categórico” não faz sentido.
 
-*-- Modal: "X é possível" pode ser reduzido a "as condições necessárias de x existem" (fatual), ou “o fato x é compatível com a estrutura básica da realidade” (condicional).
+###### Modal
 
-* Distinção A Priori-A Posteriori
+"X é possível" pode ser reduzido a "as condições necessárias de x existem" (fatual), ou “o fato x é compatível com a estrutura básica da realidade” (condicional).
+
+###### Distinção A Priori-A Posteriori
 
 Conhecimentos a posteriori dependem da experiência, e a priori dependem apenas de dedução.
 
-*- Conhecimento A Priori
+###### Conhecimento A Priori
 
 Conhecimentos a priori são justificados pela razão pura.
 
 Toda proposição a priori não depende de verdades contingentes (que podem ser verdadeiras em um momento e falsas em outro), pois apenas a experiência pode justificá-las. Logo, toda proposição a priori é necessária (cujo valor verdade é sempre o mesmo, em qualquer contexto).
 
-*- Conhecimento A Posteriori
+###### Conhecimento A Posteriori
 
 Conhecimentos a posteriori são justificados pela experiência e indução. Todo conhecimento a posteriori é contingente.
 
@@ -484,7 +666,7 @@ A incerteza de proposições a posteriori é demonstrada pela distinção fenôm
 
 Como proposições a posteriori são incertas, a sua justificação não garante que sejam verdadeiras, e por isso, conhecimento não pode ser definido como “crença verdadeira justificada”. Uma crença a posteriori pode ser corretamente justificada e mesmo assim ser falsa. Conhecimento é apenas a justificação do valor-verdade de proposições.
 
-* Distinção Interno-Externo
+###### Distinção Interno-Externo
 
 Conhecimentos internos dizem algo em primeira pessoa (que existe no próprio sujeito), e conhecimentos externos dizem algo em terceira pessoa (que existe fora do sujeito).
 
@@ -492,23 +674,23 @@ Alguns conhecimentos dizem uma relação entre coisas internas e externas, essas
 
 A distinção interno-externo, diferente das duas distinções anteriores, se aplica a conceitos que compõem proposições, por isso conceitos de ambos os tipos podem compor a mesma proposição, sendo um o sujeito e o outro o predicado da sentença.
 
-*- Conhecimento Interno
+###### Conhecimento Interno
 
 Proposições internas se referem a algo que existe em primeira pessoa, como por exemplo, uma sensação, uma ideia, uma experiência.
 
 Por exemplo, um pensamento, sentimento, sensação ou desejo são internos para o sujeito que os têm em primeira pessoa.
 
-*- Conhecimento Externo
+###### Conhecimento Externo
 
 Conhecimento externo diz algo que não está no próprio sujeito (que faz a proposição), como objetos físicos e outros sujeitos.
 
 Proposições externas se referem a algo que existe em terceira pessoa, ou seja, um estado de coisas que possa ser verificado por várias pessoas diferentes.
 
-*- Proposições Internas-Externas
+###### Proposições Internas-Externas
 
 Proposições internas-externas se referem a conceitos internos e externos simultaneamente, estando uma das referências no predicado e a outra no sujeito da sentença.
 
--- Exemplos
+### Exemplos
 
 Combinando as 3 distinções, temos 12 tipos de conhecimento. A seguir exemplos de proposições de cada tipo:
 
@@ -536,14 +718,13 @@ Condicional a posteriori interno-externo: “Se eu martelar meu dedo, sentirei d
 
 Fatual a posteriori interno-externo: “Estou preocupado com as oscilações do valor dos meus investimentos”. “Eu gosto de comer maçã”.
 
-* Modos de objetividade e subjetividade
+### Modos de objetividade e subjetividade
 
 Subjetivo é aquilo que depende de um sujeito (ser consciente), objetivo é aquilo que não depende de sujeitos.
 
 Existem dois modos em que algo pode ser objetivo ou subjetivo, o modo ontológico e o modo epistêmico. Ou seja, o modo de existência (ontológico) e o modo de justificação (epistêmico).
 
-
-*- Ontológico Objetivo e Subjetivo
+#### Ontológico Objetivo e Subjetivo
 
 Algo é ontologicamente subjetivo quando sua existência depende do sujeito, e ontologicamente objetivo quando sua existência não depende do sujeito.
 
@@ -551,27 +732,25 @@ Por exemplo, “isto é uma nota de um dólar” é uma proposição ontologicam
 
 Portanto, a definição das palavras deve ser totalmente esclarecida, separando-se fenômeno (experiência) de númeno (coisa em si não-observável pela experiência) para que a distinção fique clara.
 
-*- Epistêmico Objetivo e Subjetivo
+#### Epistêmico Objetivo e Subjetivo
 
 As proposições epistemicamente subjetivas se referem a especificidades subjetivas (estados de coisas em primeira pessoa) de pessoas específicas, por exemplo “sorvete de chocolate é gostoso”. O valor-verdade e justificação dessa proposição variam para cada pessoa. No entanto, essa proposição pode também ser considerada indefinida (e portanto, uma pseudo-proposição), pois um gosto só é gostoso ou ruim quando experimentado por um sujeito específico em um momento específico. Por exemplo: “Sorvete de chocolate é gostoso para o sujeito X no momento Y”. Nesse caso, a proposição é epistemicamente objetiva, pois sua verdade não depende do sujeito que está concebendo a proposição. Por isso, é questionável se proposições epistemicamente subjetivas realmente são possíveis, pois pode-se considerá-las indefinidas, precisando de especificação de um sujeito em um momento que tenha o estado mental contingente.
 
 Porém, proposições epistemicamente subjetivas, como “sorvete de chocolate é gostoso” podem ser ditas na forma “eu gosto de sorvete de chocolate”, e nesse caso, a proposição é definida, pois se refere à mente que concebe a proposição, essa formulação pode justificar a possibilidade de proposições epistemicamente subjetivas.
 
--- Certeza e Incerteza
+### Certeza e Incerteza
 
 Alguns conhecimentos são certos, outros são incertos. Incertos são aqueles que se pode induzir pela experiência que sejam verdadeiros, mas que têm uma probabilidade de ser falsos. Certos são aqueles que com 100% de certeza ou probabilidade, podem ser justificados como verdadeiros ou falsos.
 
-
 Todo conhecimento a priori é certo e todo conhecimento a posteriori é incerto, com exceção dos conhecimentos fatuais internos a posteriori sobre um fato no presente, que são certos. Por exemplo, eu posso saber se a proposição “eu estou vendo verde” é verdadeira ou falsa, pois o sujeito não pode estar enganado sobre fatos em primeira pessoa no presente. A experiência de ver verde não pode ser uma ilusão, porque em toda ilusão há a separação entre o fato real e a experiência ilusória, mas para fatos em primeira pessoa, não pode haver essa separação. A experiência de um fato em primeira pessoa corresponde diretamente ao fato, e não é uma interpretação, como no caso de fatos externos. Esse é o único tipo de conhecimento a posteriori (e portanto, contingente) que é certo.
-
 
 Isso só se aplica a experiências internas no presente. Proposições sobre experiências internas no passado ou futuro são incertas, pois memórias podem ser falsas ou ilusórias, e não se pode ter certeza sobre o futuro, pois para isso seria necessário se conhecer todos os fatos presentes, e isso é impossível.
 
-- Metodologia Epistemológica
+## Metodologia Epistemológica
 
 Métodos epistemológicos são as formas pelas quais proposições podem ser justificadas.
 
--- Demonstração dos Métodos Epistemológicos
+### Demonstração dos Métodos Epistemológicos
 
 Em toda ação, o indivíduo precisa justificar suas crenças sobre verdades contingentes, sobre como as coisas acontecem no contexto da ação, mas que possivelmente poderiam acontecer de uma forma diferente. A justificação de verdades contingentes, que são a posteriori, se chama experiência, ou indução.
 
@@ -579,7 +758,7 @@ Em toda ação estão implícitos conceitos a priori que não podem ser justific
 
 Logo, os métodos epistemológicos, ou seja, métodos de se obter conhecimento, podem ser distintos entre a razão pura (para conhecimentos a priori) e experiência (para conhecimentos a posteriori).
 
---- Razão Pura: Método A Priori (Dedução)
+#### Razão Pura: Método A Priori (Dedução)
 
 A razão pura consiste em identificar a estrutura a priori da realidade (verdades necessárias que são condição de toda experiência).
 
@@ -591,7 +770,7 @@ Por exemplo, a proposição “eu ajo” é necessariamente verdadeira, pois ao 
 
 Através desse método, o sujeito pode conhecer aquelas características estruturais da realidade que não são contingentes, mas são condição da possibilidade da concepção de estados de coisas contingentes.
 
---- Experiência: Método A Posteriori (Indução)
+#### Experiência: Método A Posteriori (Indução)
 
 É condição da possibilidade da ação que o indivíduo perceba os estados de coisas que influenciam e são influenciados pela sua ação, caso contrário, ele não poderia tomar decisões sobre os meios e fins da ação, e não poderia agir. Logo, a ação pressupõe a experiência de fatos como justificação de proposições a posteriori.
 
@@ -621,7 +800,6 @@ Sensação é um dado bruto dos sentidos ou da mente, e experiência é a interp
 
 Logo, estados de coisas são observados pela mente apenas como interpretação do observador sobre os dados sensoriais percebidos.
 
-
 Os dados sensoriais, puros, não são suficientes para se conhecer fatos. A mente precisa interpretar os dados sensoriais dentro das categorias da percepção (espaço, tempo, causalidade, existência…), e só depois de encaixar os dados sensoriais nessas categorias, a mente entende aquilo na forma de objetos. Nenhum objeto é percebido diretamente, mas é uma interpretação, que é a organização dos dados sensoriais dentro das categorias intrínsecas à mente.
 
 O dado sensorial em si não contém essas categorias a priori. A mente sintetiza os dados e a estrutura a priori do espaço, tempo, existência e causalidade em uma experiência unificada.
@@ -636,7 +814,7 @@ A mente concebe um objeto pelo conjunto de causas atribuídas a ele. A mente nã
 
 Se a mente visse objetos diretamente, não poderia haver ilusões sensoriais. Nunca poderíamos estar enganados sobre algum objeto que víssemos. Ilusões acontecem quando a interpretação dada aos dados sensoriais se mostra inconsistente com outras observações. Isso prova que objetos são interpretações da mente sobre os dados sensoriais, e não dados percebidos diretamente pelo observador.
 
--- Distinção Fenômeno-Númeno
+### Distinção Fenômeno-Númeno
 
 O sujeito pode conhecer estados de coisas (fatos) contingentes apenas pela experiência, que é uma interpretação de dados sensoriais. Dados sensoriais são causados por objetos externos, mas eles existem no sujeito, e não nos objetos externos. Logo, a aparência de um objeto, a forma como o sujeito percebe os objetos, não faz parte dos objetos em si, que existem fora do sujeito. A aparência de um objeto externo (fenômeno) é diferente do objeto externo independente do sujeito (númeno).
 
@@ -648,7 +826,7 @@ Todo conhecimento a posteriori externo é fenomênico, sobre como os fatos apare
 
 Todo conhecimento a priori é numênico, sobre como as coisas são independentes da experiência, ou seja, como as coisas são por trás das aparências. Até mesmo os conhecimentos a priori sobre as próprias aparências em geral são numênicos, pois a aparência, ela própria, é uma coisa que existe por si mesma, e pode ser conhecida a priori, em como sua estrutura básica (transcendental) necessariamente é.
 
---- Ilusão
+#### Ilusão
 
 Ilusão é uma interpretação falsa de que um fenômeno resulta de certos fatos.
 
@@ -664,7 +842,6 @@ Toda ilusão é tida por um observador.
 
 Logo, o observador não pode ser uma ilusão.
 
-
 Ilusão é um tipo de estado mental, e portanto a mente e os estados mentais, eles próprios, não podem ser ilusões.
 
 Para prever o comportamento de fenômenos, o indivíduo precisa acumular informação sobre os resultados de ações passadas, esse acúmulo é a memória.
@@ -673,7 +850,7 @@ A indução sobre o comportamento de fenômenos é o método das ciências natur
 
 Logo, as ciências naturais não podem dizer nada sobre as coisas-em-si, mas apenas sobre o comportamento de fenômenos.
 
--- Ciências Naturais
+### Ciências Naturais
 
 Ciências naturais são o estudo do comportamento de fenômenos através da observação (interpretação de fenômenos) e formulação de teorias capazes de prever tendências (probabilidades) desses comportamentos.
 
@@ -689,7 +866,7 @@ Logo, as ciências naturais não podem negar o observador, a ação, ou as categ
 
 Logo, o método das ciências naturais não pode validar a si próprio, apenas o método a priori demonstra a validade do método a posteriori.
 
--- Estudo da mente
+### Estudo da mente
 
 A mente não é observável, pois ela é o observador.
 
@@ -697,7 +874,7 @@ Logo, a mente em si só pode ser conhecida pelo método filosófico (a priori), 
 
 O método a posteriori apenas pode observar tendências psicológicas e comportamentais de certos seres conscientes contingentes, e não a natureza intrínseca da mente em si.
 
--- Memória
+### Memória
 
 Nenhuma memória é certa, pois uma memória pode ser falsa ou distorcida. Memórias se baseiam em registros no cérebro (arranjo físico pelo qual a mente funciona).
 
@@ -705,7 +882,7 @@ Por exemplo, quando eu estou vendo a cor azul, eu posso ter certeza de que estou
 
 Logo, o sentimento, ou sensação, pode ser conhecido com certeza em primeira pessoa no presente, mesmo que a proposição seja a posteriori, ou seja, existem proposições a posteriori certas. Certas por serem garantidas pela experiência presente, mas em si, incertas, porque poderiam possivelmente ser falsas, como qualquer proposição a posteriori.
 
--- Argumentos e Tautologias
+### Argumentos e Tautologias
 
 Toda proposição segue a estrutura da lógica. Ou seja, o conteúdo da proposição não pode contradizer o significado das palavras, nem múltiplas proposições verdadeiras podem se contradizer entre si. Proposições que apenas afirmam o que já está implícito no significado das palavras são tautologias.
 
@@ -717,11 +894,11 @@ Argumentos a priori não devem ser confundidos com tautologias. Conclusões de a
 
 Argumentos (justificações) a priori, portanto, derivam uma conclusão que não estava dita pelas premissas, e não são tautológicos.
 
--- Crença Verdadeira Justificada
+### Crença Verdadeira Justificada
 
 Alguns pensadores definem conhecimento como “crença verdadeira justificada”. Neste texto, conhecimento é definido apenas como “justificação de proposições”, pois nem todo conhecimento contém em si certezas e verdades. Conhecimentos a posteriori apontam tendências de certas proposições serem verdadeiras, mas não contém certeza.
 
-- Fatos a Priori
+### Fatos a Priori
 
 Apenas os conhecimentos a priori podem ser conhecidos com certeza. Eles são sempre verdadeiros, pois sua verdade está implícita como condição do próprio ato de afirmá-las ou negá-las.
 
@@ -779,7 +956,7 @@ Não está contido no significado das palavras que proposições e o eu conscien
 
 Elas não podem ser negadas pois o processo de se negá-las, que é o ato de fazer uma proposição, prova que são verdadeiras.
 
-- Ontologia
+## Ontologia
 
 Ontologia é o estudo daquilo que existe e suas propriedades. Ao contrário das ciências naturais, a ontologia (que em geral também pode ser chamada de metafísica) não se constitui da observação de comportamentos de fenômenos, mas sim do processo de se conhecer a base da realidade, aquilo que existe por si mesmo, que não pode ser reduzido a outra coisa ou decomposto, e que compõe as outras coisas que existem.
 
@@ -791,7 +968,7 @@ Na ontologia, se usa o método a priori (método usado em todas as áreas da fil
 
 De fato, qualquer observador em qualquer possível mundo que tentasse descobrir de que se compõe a realidade chegaria nas mesmas conclusões pelo método a priori, pois elas dependem apenas das condições necessárias do ato de se fazer uma proposição, que é uma ação.
 
- -- Substância
+### Substância
 
 Substância é algo que existe e não pode ser decomposto ou reduzido a outra coisa.
 
@@ -839,8 +1016,7 @@ Formas também não podem ser a causa dos arranjos específicos de substância, 
 
 Logo, a substância intrinsecamente se compõe em formas (arranjos).
 
-
--- Causalidade
+### Causalidade
 
 Causalidade é a propriedade de uma coisa causar efeitos sobre outras e ter efeitos causados sobre si.
 
@@ -872,7 +1048,7 @@ Toda propriedade da substância e de objetos pode ser reduzida à sua causalidad
 
 Logo, o axioma da ação prova as causalidades física e mental.
 
---- Energia
+#### Energia
 
 Energia é potencial causal.
 
@@ -890,13 +1066,13 @@ Logo, todo meio da ação é escasso.
 
 Logo, todo meio da ação tem parte do seu potencial disperso pelo seu uso.
 
---- Aleatoriedade
+#### Aleatoriedade
 
 A causalidade se fundamenta no númeno. Na experiência, a causalidade é uma interpretação do observador, e não um dado. A causalidade é uma categoria a priori, é necessário para qualquer julgamento a posteriori a pressuposição de que todo fato contingente causa um efeito e é efeito de uma causa anterior.
 
 Logo, a aparência de aleatoriedade (de que um efeito não seja determinado pela causa) é uma ilusão. A aparência de aleatoriedade reflete apenas a limitação do observador em observar todas as causas de um fenômeno.
 
---- Determinismo vs. Livre Arbítrio
+#### Determinismo vs. Livre Arbítrio
 
 Livre-Arbítrio é a hipótese de que uma mente poderia fazer múltiplas escolhas diferentes e excludentes a partir das mesmas causas. Isso implica que o fato de A ser escolhido no lugar da alternativa B não tem uma causa determinante, já que com exatamente as mesmas causas, B poderia ter sido escolhido. Se a escolha não tem causa, então a mente não pode ser a causa dela, e portanto a mente não poderia fazer a escolha, ela seria, na verdade, aleatória. Logo, é um erro de linguagem dizer que escolhas são feitas livremente.
 
@@ -936,7 +1112,7 @@ O problema com esse argumento é que não necessariamente pode haver alguma prev
 
 Outro argumento a favor do livre-arbítrio é o de que temos a experiência em primeira pessoa de fazer escolhas. Mais uma vez, escolha, longe de ser uma prova do livre-arbítrio, é uma prova do determinismo. Pois uma escolha só é inteligível como uma causa mental de um efeito, e essa causa explica por que uma alternativa foi escolhida ao invés de outra. Sem essa explicação, não há causa da escolha, e portanto ela não poderia ser causada pela mente, e portanto seria falso que a mente faz escolhas, elas seriam apenas uma aleatoriedade.
 
--- Por que Metafísica é Importante?
+### Por que Metafísica é Importante?
 
 A metafísica, sendo o conhecimento das propriedades dos componentes básicos da realidade, permite o entendimento do que constitui todas as outras coisas, acabando assim com dúvidas, tendências ao relativismo ou ceticismo global.
 
@@ -954,11 +1130,11 @@ Logo, não se pode conhecer a realidade fundamental por observação, mas apenas
 
 Nem sequer é possível, cientificamente, afirmar que os fenômenos microscópicos sempre constituem os macroscópicos. É possível que um fenômeno microscópico pudesse ser uma ilusão.
 
--- Refutação do Idealismo:
+### Refutação do Idealismo:
 
 Se o conhecimento é derivado da estrutura da ação, e a ação segue a estrutura da mente, por que isso serviria como base para conhecer um mundo físico, que exista fora da mente? Por que não concluir o idealismo, que afirma que tudo que existe é mental?  A resposta é de que a ação pressupõe uma interação entre as realidades subjetiva (mental) e objetiva (física). Para que essa interação ocorra, a estrutura da ação precisa obedecer o funcionamento de ambas. Logo, se pode conhecer certas verdades sobre a natureza física através do axioma da ação, que são verdades necessárias a priori.
 
--- Interação Psico-Física
+### Interação Psico-Física
 
 Alguns pensadores defendem o fisicalismo ou o reducionismo materialista ou fisicalista, ou seja, a hipótese de que a mente não existe, ou é uma ilusão, ou um epifenômeno, sem causalidade própria, pelo argumento de que não poderia haver interação entre a mente e a física se fossem duas coisas de natureza diferente.
 
@@ -976,7 +1152,7 @@ O numenalismo psicofísico, portanto, se opõe ao dualismo conceitual.
 
 Considerar a mente como propriedade emergente de estados físicos numênicos, ou como substância que conceitua o universo espaço-temporal fenomênico, são apenas formas diferentes de descrever a mesma realidade.
 
---- Determinismo Psico-Físico
+#### Determinismo Psico-Físico
 
 Pode ser feita a pergunta: Como saber que sujeitos diferentes têm as mesmas qualia equivalentes aos mesmos dados físicos externos? Por exemplo, como saber que um sujeito não percebe vermelho quando outro percebe verde, e vice-versa? Se qualia existem exclusivamente em primeira pessoa, e uma mente não tem acesso às qualia de outras, como verificar se isso acontece? O conjunto dessas perguntas pode ser chamado de problema da inversão das qualia, ou problema da indeterminação das qualia.
 
@@ -986,7 +1162,7 @@ Isso é demonstrado pela lei da causalidade, que diz que todo estado de coisas �
 
 Logo, estruturas cerebrais e mentais semelhantes tendem a produzir qualia semelhantes a partir de dados físicos semelhantes. Dessa forma, é possível saber que as qualia de múltiplas mentes, produzidas a partir de um mesmo dado físico, não podem ser diferentes, a não ser que isso fosse causado por uma diferença na sua estrutura psico-física. Essa diferença, por ser física, é observável em terceira pessoa, caso haja meios adequados para fazer a observação.
 
-- Economia
+## Economia
 
 A economia é o estudo da valorização de meios da ação pelo indivíduo.
 
@@ -994,7 +1170,7 @@ Todo meio da ação é um recurso escasso.
 
 Todos os processos econômicos, como produção, trocas, etc. se constituem de ações. Toda ação é feita por indivíduos, logo toda economia é constituída por indivíduos agindo.
 
-- Valor Econômico
+## Valor Econômico
 
 Valor econômico de recursos escassos se constitui da preferência que indivíduos dão a determinados recursos sobre outros.
 
@@ -1010,20 +1186,20 @@ A valorização de recursos escassos é marginal, ou seja, o indivíduo valoriza
 
 O valor que um indivíduo dá a cada recurso, portanto, muda com o tempo, conforme mudam seus pensamentos sobre que meios e fins resultarão em maior satisfação.
 
--- Poupança
+### Poupança
 
 O indivíduo poupa quando acumula recursos no presente para que possa usar no futuro.
 
---- Investimento
+#### Investimento
 
 Investimento é o uso de recursos acumulados, com o fim de produzir recursos ainda mais valiosos.
 
----- Custo de Oportunidade
+##### Custo de Oportunidade
 
 
 Toda ação (incluindo investimento e produção) inclui em seu custo os fins que foram renunciados (que poderiam ter sido alcançados caso outra ação fosse escolhida). Esse é o custo de oportunidade.
 
----- Produção
+##### Produção
 
 Produção é uma alteração na configuração (arranjo) de recursos escassos com o fim de obter novos recursos. Todo recurso (meio da ação) se compõe de substância. Substância não pode ser criada nem destruída, apenas rearranjada.
 
@@ -1031,51 +1207,51 @@ Toda produção exige múltiplos recursos em uma certa combinação para resulta
 
 Toda produção tem como objetivo o consumo.
 
------ Consumo
+###### Consumo
 
 Consumo é o uso de um meio para alcançar satisfação imediata.
 
 Todo consumo envolve o gasto dos meios, que precisam continuar a ser produzidos para que possa haver mais consumo.
 
------ Custo
+###### Custo
 
 Os meios usados na produção constituem o seu custo.
 
------- Eficiência
+###### Eficiência
 
 Quanto mais baixo o custo incorrido na produção de um certo recurso, mais eficiente é essa produção.
 
 O indivíduo pode investir para tornar os meios de produção mais eficientes.
 
-------- Tecnologia
+###### Tecnologia
 
 A economia é indissociável da tecnologia. Todo avanço econômico depende do aumento na eficiência dos meios de produção, que são ferramentas cujo objetivo é produzir mais usando menos recursos. A tecnologia é o acúmulo de conhecimento sobre a produção de ferramentas.
 
--- Trocas
+### Trocas
 
 Toda ação é uma troca, o indivíduo troca um estado de coisas, o meio, por outro, que ele deseja.
 
---- Troca interpessoal
+#### Troca interpessoal
 
 Em uma troca interpessoal, em que dois indivíduos trocam os respectivos recursos de que dispõem pelos do outro, cada indivíduo sempre valoriza mais os bens que recebe aos que renuncia. Ou seja, acredita que o estado de coisas resultante da troca é mais satisfatório que o estado de coisas que aconteceria na ausência dela.
 
 Ou seja, a ordem de preferência dos dois indivíduos pelos bens trocados é inversa.
 
----- Mercado
+##### Mercado
 
 O mercado se constitui de todos os indivíduos que possam fazer trocas entre si.
 
------ Divisão do Trabalho
+###### Divisão do Trabalho
 
 Indivíduos diferentes podem ter graus de eficiência diferentes na produção de certo recurso, devido às habilidades e meios disponíveis de cada um serem diferentes.
 
 Nesse caso, mais lucro é alcançado quando cada indivíduo trabalha na tarefa que é capaz de fazer com maior eficiência em comparação ao outro.
 
--- Leis econômicas
+### Leis econômicas
 
 As leis econômicas são demonstradas ou deduzidas a priori a partir da estrutura da ação.
 
---- Lei da Utilidade Marginal Decrescente
+#### Lei da Utilidade Marginal Decrescente
 
 Quando um indivíduo dispõe de uma unidade de um recurso escasso, ele usará aquela unidade para o fim mais valorizado que ele acredita poder alcançar através dela.
 
@@ -1087,13 +1263,13 @@ O fim menos valorizado satisfeito por uma unidade de um estoque constitui a util
 
 Quando um indivíduo troca um recurso por outro (se desfaz de um para adquirir outro), ele faz isso porque considera que o valor marginal do bem renunciado é menor que o valor marginal do bem adquirido.
 
---- Lei de Oferta e Demanda
+#### Lei de Oferta e Demanda
 
 Quanto mais quantidade de um recurso está disponível (oferta), menor é o valor médio de cada unidade, devido à utilidade marginal decrescente.
 
 Quanto maior é o desejo de indivíduos pelo uso de unidades de um recurso (demanda), mais valioso ele é no mercado.
 
---- Lei de Retornos
+#### Lei de Retornos
 
 Toda produção envolve o uso de múltiplos recursos.
 
@@ -1101,7 +1277,7 @@ Em relação a dois tipos de recursos usados em uma produção, existe uma propo
 
 Qualquer desvio dessa proporção ótima aumenta o custo de produção.
 
---- Lei da Associação
+#### Lei da Associação
 
 Se entre dois indivíduos, um deles for mais eficiente (capaz de produzir mais lucro) que o outro em duas tarefas, e se um deles tem uma diferença maior na eficiência de uma tarefa para outra, se este se especializar na sua tarefa mais eficiente, e o outro se especializar na outra, isso será mais lucrativo do que se ambos dividirem sua produção entre as duas tarefas.
 
@@ -1109,11 +1285,11 @@ Mesmo que dois indivíduos não apresentem diferença que justifique a divisão 
 
 Logo, a divisão de diferentes trabalhos entre diferentes indivíduos sempre aumenta a eficiência da produção em comparação a cada indivíduo fazer todos os trabalhos.
 
-- Teoria Monetária
+## Teoria Monetária
 
 Teoria Monetária é o estudo do dinheiro.
 
--- Dinheiro
+### Dinheiro
 
 Trocas interpessoais encontram diversos obstáculos, de acordo com as características dos recursos trocados. Esses obstáculos resultam em custos e prejuízos.
 
@@ -1123,15 +1299,15 @@ O dinheiro pode ser útil para fazer trocas, acumular valor, transportar valor.
 
 A utilidade do dinheiro vem das suas características, que podem ser chamadas de características monetárias, e também da sua aceitação no mercado. As características do dinheiro permitem que trocas interpessoais sejam feitas incorrendo em menor custo.
 
---- Moeda
+#### Moeda
 
 Moeda é um certo tipo de recurso usado como dinheiro.
 
----- Moeda forte
+##### Moeda forte
 
 Quanto mais útil é uma moeda, mais forte ela é.
 
------ Características Monetárias
+###### Características Monetárias
 
 As características monetárias se baseiam na composição física da moeda, ou seja, os arranjos de substância física que permitem a identificação de instâncias de uma moeda.
 
@@ -1139,7 +1315,7 @@ O fato de um recurso ser dinheiro é ontologicamente subjetivo (relativo ao obse
 
 Moeda digital, baseada em programas de computador, também é considerada física nesse sentido, pois se baseia na física dos computadores.
 
------- Portabilidade
+###### Portabilidade
 
 Toda troca interpessoal exige alocação de recursos. Toda alocação de recursos exige um custo, ou seja o uso de meios para realizar a alocação.
 
@@ -1147,7 +1323,7 @@ O dinheiro é mais eficiente em alocar recursos de forma satisfatória na medida
 
 Logo, quanto mais portável é uma moeda, mais forte ela é.
 
------- Divisibilidade
+###### Divisibilidade
 
 Um meio da ação (recurso) se constitui de arranjos de substância. Logo, não é possível dividi-lo em partes indefinidamente mantendo sua utilidade.
 
@@ -1157,7 +1333,7 @@ A divisibilidade da moeda permite maior capacidade de fazer trocas de quantidade
 
 Alguns recursos permitem maior divisibilidade que outros.
 
------- Escassez
+###### Escassez
 
 A produção de mais quantidade de moeda resulta em inflação (perda do valor e utilidade do dinheiro).
 
@@ -1165,25 +1341,25 @@ A escassez de uma moeda é o fato de ser difícil, ou impossível, se produzir m
 
 Quanto mais escassa uma moeda, mais valiosa ela é como meio de troca e reserva de valor.
 
------- Fungibilidade
+###### Fungibilidade
 
 Uma moeda é fungível quando cada unidade dela possui as mesmas propriedades.
 
 Uma moeda precisa ser fungível para que suas unidades possam ser valorizadas de forma homogênea, sendo mais eficiente na sua função como moeda.
 
------- Durabilidade
+###### Durabilidade
 
 Quanto mais durável é uma moeda, podendo ser usada sem que isso desfaça sua constituição física, mais forte ela é.
 
------- Ocultabilidade
+###### Ocultabilidade
 
 Ocultabilidade é a característica de unidades de uma moeda não serem detectáveis ou rastreáveis, exceto pelo seu usuário. Isso permite ao usuário decidir ocultá-las ou revelá-las de acordo com sua vontade.
 
---- Valor Monetário
+#### Valor Monetário
 
 O valor do dinheiro se constitui da sua aceitação pelos indivíduos como meio de troca de recursos escassos.
 
---- Dominância Monetária
+#### Dominância Monetária
 
 Quanto mais uma moeda é valorizada pelos indivíduos, mais dominante ela é na sociedade.
 
@@ -1191,7 +1367,7 @@ Quanto mais forte uma moeda, maior a tendência de ser aceita no mercado (trocas
 
 Se uma moeda for superior às outras em todas as características, isso torna mais provável que ela alcance dominância total (seja a única moeda utilizada pela sociedade).
 
--- Deflação e Inflação
+### Deflação e Inflação
 
 Inflação é o aumento da oferta de dinheiro.
 
@@ -1201,7 +1377,7 @@ Logo, se a quantidade de dinheiro em circulação aumentar (inflação), cada un
 
 Se a quantidade de produtos em circulação aumentar, cada unidade de dinheiro poderá comprar mais produtos, e se diminuir, cada unidade poderá comprar menos produtos.
 
---- Dinheiro como investimento
+#### Dinheiro como investimento
 
 Para investir em meios de produção, é preciso acumular recursos. Como o dinheiro é um recurso portável e durável, seu armazenamento e transporte têm baixo custo.
 
@@ -1215,7 +1391,7 @@ Investimento resulta em aumento da produção.
 
 O aumento da produção resulta em valorização do dinheiro, pois a mesma quantidade de dinheiro pode ser trocada por mais produtos.
 
-- Lucro e Prejuízo
+## Lucro e Prejuízo
 
 Lucro é um aumento na satisfação do indivíduo.
 
@@ -1223,13 +1399,13 @@ O indivíduo considera que lucrou quando valoriza mais os meios disponíveis no 
 
 Toda troca interpessoal é feita visando o lucro.
 
--- Cálculo Econômico
+### Cálculo Econômico
 
 Lucro pode ser obtido através de produção e trocas que resultem em recursos com maior valor no mercado que aqueles usados na sua produção.
 
 O cálculo do valor econômico de bens no mercado só é possível através de um sistema de preços.
 
---- Sistema de Preços
+#### Sistema de Preços
 
 O sistema de preços é formado pela oferta e demanda de recursos no mercado.
 
@@ -1237,21 +1413,21 @@ O mercado (trocas interpessoais de recursos) apenas pode acontecer quando cada i
 
 Essa exclusividade individual de decisão sobre o uso de recursos pode ser chamada de propriedade privada.
 
----- Sociedade de Propriedade Privada
+##### Sociedade de Propriedade Privada
 
 Em um sistema de propriedade privada, apenas se pode conseguir recursos produzidos e poupados por outros se eles forem transferidos voluntariamente. E recursos são transferidos voluntariamente apenas se aqueles em ambos os lados da troca preferirem os recursos recebidos aos renunciados.
 
 Logo, dentro da lei de propriedade privada, o indivíduo apenas pode obter lucro da sociedade através de produzir lucro a outros.
 
------ Sociedade Anti-Ética
+###### Sociedade Anti-Ética
 
 Numa sociedade em que se viola a lei de propriedade privada, é possível obter lucro através do prejuízo de outros, ao se violar suas propriedades.
 
------ Coerção
+###### Coerção
 
 Coerção é o uso de força física ou ameaça do uso de força física com o objetivo de persuadir outras pessoas a fazer certas ações.
 
------ Livre Mercado
+###### Livre Mercado
 
 Livre Mercado (livre concorrência) acontece quando o mercado funciona dentro da regra de propriedade privada.
 
@@ -1265,7 +1441,7 @@ Aqueles que produzem mais riqueza no livre mercado também acumulam mais e, port
 
 Há, portanto, no livre mercado, uma seleção natural dos indivíduos capazes de produzir riqueza de forma mais eficiente.
 
------ Monopólio
+###### Monopólio
 
 Monopólio é o comércio de produtos e serviços protegido de concorrentes pelo uso da força, usada para ameaçar e agredir outros que queiram fornecer o mesmo tipo de produtos e serviços.
 
@@ -1273,7 +1449,7 @@ Logo, todo monopólio depende do monopólio da força. Esse monopólio da força
 
 O preço de um produto ou serviço dentro de um monopólio sempre é maior que na livre concorrência.
 
-- Ética
+## Ética
 
 Ética é o estudo de quais ações podem ser permitidas ou proibidas em sociedade.
 
@@ -1289,7 +1465,6 @@ Ações são conflituosas quando múltiplos indivíduos usam o mesmo meio para f
 
 Se ações conflituosas fossem permitidas, a lei falharia em definir qual das duas é permitida, pois uma delas poderia impossibilitar a outra.
 
-
 Logo, as ações permitidas pela lei não podem ser possivelmente conflituosas entre si.
 
 Logo, a lei não pode permitir que múltiplos indivíduos decidam sobre o uso do mesmo meio ao mesmo tempo.
@@ -1300,31 +1475,31 @@ Esse usuário legítimo pode ser chamado de proprietário, e o meio que ele pode
 
 Logo, a lei é a regra da propriedade privada.
 
--- Apropriação
+### Apropriação
 
 O uso de um meio (recurso) sem dono é livre de conflito. O indivíduo que faz esse uso se torna o proprietário, caso contrário a lei permitiria conflitos com outros que tentassem usar o recurso.
 
---- Armazenamento
+#### Armazenamento
 
 O armazenamento (poupança) de uma propriedade (recurso) constitui um uso dela pelo proprietário.
 
---- Abandono
+#### Abandono
 
 A propriedade pode ser considerada abandonada apenas se não estiver demarcada (não for evidente que ela possa estar em uso pelo proprietário), ou por decisão do proprietário.
 
---- Demarcação
+#### Demarcação
 
 Para que a lei seja seguida, deve ser evidente que propriedades pertencem a proprietários. O proprietário deve, portanto, demarcar (tornar evidente) sua propriedade.
 
----- Transferência
+##### Transferência
 
 Um proprietário pode transferir parte, ou a totalidade, do seu poder de decisão sobre a propriedade para outro.
 
------ Contrato
+###### Contrato
 
 Um contrato se constitui da transferência do poder de decisão sobre o uso de propriedades, podendo essas transferências ser condicionais a certas situações (estados de coisas).
 
----- Violação da Lei
+##### Violação da Lei
 
 Ao violar a lei, um indivíduo deixa de participar da sociedade legal.
 
@@ -1332,13 +1507,13 @@ Logo, ao violar a lei, um indivíduo perde parte, ou a totalidade, das suas prop
 
 Todo crime se constitui de uma violação da lei.
 
------ Punição
+###### Punição
 
 A perda da propriedade do criminoso (violador da lei) pode permitir, mas não determinar, que ele seja punido.
 
 Toda punição se constitui do uso dos recursos que pertenciam previamente ao criminoso pelos indivíduos que aplicam a punição.
 
-*- Julgamento
+###### Julgamento
 
 Algumas pessoas acreditam que é necessário um devido processo legal para que o julgamento de um crime seja legítimo. Isso pode incluir uma estrutura específica de tribunais, um processo específico feito com juízes, etc. Apesar de tribunais poderem ser estabelecidos e utilizados por contratos, eles não têm uma autoridade especial de julgar crimes.
 
@@ -1348,7 +1523,7 @@ Algumas pessoas acreditam que é necessário um devido processo legal para que o
 
 A legitimidade do julgamento de um crime nunca está em quem, ou que estrutura coletiva, o julga, mas sim na ação julgada ser um crime ou não, ou seja, violar propriedade ou não, e as evidências serem suficientes para afirmar que essa ação foi feita. Todo indivíduo pode julgar um crime e agir de acordo com a perda de propriedade do criminoso, o que pode permitir certos tipos de punição.
 
--- Ideias e Propriedade
+### Ideias e Propriedade
 
 Toda ideia real é uma configuração de meios escassos. Por exemplo, quando a mente tem uma ideia, há partículas no cérebro configuradas de determinada forma.
 
@@ -1364,7 +1539,7 @@ Logo, a cópia de ideias ou formas físicas não é uma violação de propriedad
 
 Logo, a imposição da força sobre a reprodução de ideias e formas físicas constitui monopólio de ideias, e agressão à propriedade.
 
-- Moral
+## Moral
 
 Moral é o estudo do bem e do mal.
 
@@ -1388,7 +1563,7 @@ O critério do bem e do mal se baseia no indivíduo, e se aplica universalmente 
 
  Logo, o critério moral é natural, e logo não pode haver autoridade moral.
 
--- Dever
+### Dever
 
 Todo dever depende de uma finalidade. Para alcançar um certo resultado, deve-se usar certos meios. Não faz sentido dizer que haja um dever sem uma finalidade como critério. Ideias como “dever absoluto”, “dever incondicional” ou “imperativo categórico” são, portanto, erros de linguagem.
 
@@ -1398,19 +1573,19 @@ Para se determinar um dever moral, é preciso primeiro definir o critério moral
 
 Em um determinado momento, a ação que o indivíduo possa identificar racionalmente como aquela com maior tendência de causar o bem é um dever moral.
 
--- Boa Vontade
+### Boa Vontade
 
 Boa vontade é a intenção de fazer o bem. Boas intenções nem sempre garantem bons resultados. Muitas vezes, uma pessoa pode fazer o mal com boas intenções. Isso acontece porque falta conhecimento sobre o que é moral e sobre as consequências das próprias ações.
 
 Logo, a boa vontade não é intrinsecamente boa. Ela depende de conhecimento e inteligência para gerar o resultado desejado.
 
--- Conhecimento Moral
+### Conhecimento Moral
 
 Para identificar o dever moral, o indivíduo precisa entender o que é a moral a priori, e precisa de conhecimento a posteriori que o permita prever o máximo possível o resultado das suas ações.
 
 O melhor motivo para buscar conhecimento é o motivo moral. A moral depende de conhecimento e boa vontade.
 
--- Amor e ódio
+### Amor e ódio
 
 Amor é um sentimento vinculado ao desejo. Amor é o que se sente quando se deseja uma coisa.
 
@@ -1418,7 +1593,7 @@ Amor é um sentimento vinculado ao desejo. Amor é o que se sente quando se dese
 
 Se há o dever moral de se desejar aquilo que é bom e se desejar a ausência daquilo que é mau, então há o dever de se amar o que é bom e se odiar o que é mau.
 
---- Refutação do Utilitarismo
+#### Refutação do Utilitarismo
 
 Segundo o utilitarismo, o bem é idêntico à sensação de bem-estar. Quanto mais bem-estar resultasse de uma ação, mais essa ação seria boa.
 
