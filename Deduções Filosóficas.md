@@ -82,8 +82,8 @@ Clique para expandir
 
 - [Metodologia Epistemológica](#Metodologia-Epistemológica)
   - [Demonstração dos Métodos Epistemológicos](#Demonstração-dos-Métodos-Epistemológicos)
-    - [Razão Pura: Método A Priori (Dedução)](#Razão-Pura:-Método-A-Priori-Dedução)
-    - [Experiência: Método A Posteriori (Indução)](#Experiência:-Método-A-Posteriori-Indução)
+    - [Razão Pura: Método A Priori (Dedução)](#Razão-Pura-Método-A-Priori-Dedução)
+    - [Experiência: Método A Posteriori (Indução)](#Experiência-Método-A-Posteriori-Indução)
   - [Distinção Fenômeno-Númeno](#Distinção-Fenômeno-Númeno)
     - [Ilusão](#Ilusão)
   - [Ciências Naturais](#Ciências-Naturais)
