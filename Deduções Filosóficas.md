@@ -17,7 +17,7 @@ Clique para expandir
 - [Intencionalidade e Referência](#Intencionalidade-e-Referência)
 - [Verdade](#Verdade)
 - [Existência](#Existência)
-- [Consciência](#Existência)
+- [Consciência](#Consciência)
 - [Ação](#Ação)
 - [Categorias da Ação](#Categorias-da-ação)
 
@@ -38,20 +38,21 @@ Clique para expandir
 - [Existência (Quantificação)](#Existência-Quantificação)
 - [Valor (Preferência)](#Valor-Preferência)
 - [Escolha](#Escolha)
-- [Sucesso e Fracasso](Sucesso-e-Fracasso)
+- [Sucesso e Fracasso](#Sucesso-e-Fracasso)
 - [Satisfação](#Satisfação)
 - [Espaço](#Espaço)
 - [Demonstração do status condicional, a priori e interno do espaço](#Demonstração-do-status-condicional-a-priori-e-interno-do-espaço)
 - [Tempo](#Tempo)
-- [Verdade](#Verdade)
+- [Verdade](#Verdade-1)
 - [Conhecimento](#Conhecimento)
+
 </details>
 
 <br>
 
 <details><summary> <strong>Parte 3</strong> </summary>
 
-- [Epistemologia]
+- [Epistemologia](#Epistemologia)
   - [O que é conhecimento?](#O-que-é-conhecimento)
   - [Demonstração do Conhecimento](#Demonstração-do-Conhecimento)
 - [Distinções Epistemológicas](#Distinções-Epistemológicas)
@@ -59,7 +60,7 @@ Clique para expandir
     - [Distinção Condicional-Fatual](#Distinção-Condicional-Fatual)
       - [Conhecimento Condicional](#Conhecimento-Condicional)
       - [Conhecimento Fatual](#Conhecimento-Fatual)
-      - [Demonstração de que sentenças analíticas, modais, imperativas, interrogativas ou normativas são redutíveis a proposições fatuais e condicionais (ou nonsense)](#Demonstração-de-que-sentenças-analíticas-modais-imperativas-interrogativas-ou-normativas-são-redutíveis-a-proposições-fatuais-e-condicionais-(ou-nonsense))
+      - [Demonstração de que sentenças analíticas, modais, imperativas, interrogativas ou normativas são redutíveis a proposições fatuais e condicionais (ou nonsense)](#Demonstração-de-que-sentenças-analíticas-modais-imperativas-interrogativas-ou-normativas-são-redutíveis-a-proposições-fatuais-e-condicionais-ou-nonsense)
     - [Distinção A Priori-A Posteriori](#Distinção-A-Priori-A-Posteriori)
       - [Conhecimento A Priori](#Conhecimento-A-Priori)
       - [Conhecimento A Posteriori](#Conhecimento-A-Posteriori)
@@ -72,6 +73,7 @@ Clique para expandir
     - [Ontológico Objetivo e Subjetivo](#Ontológico-Objetivo-e-Subjetivo)
     - [Epistêmico Objetivo e Subjetivo](#Epistêmico-Objetivo-e-Subjetivo)
   - [Certeza e Incerteza](#Certeza-e-Incerteza)
+
 </details>
 
 <br>
@@ -80,8 +82,8 @@ Clique para expandir
 
 - [Metodologia Epistemológica](#Metodologia-Epistemológica)
   - [Demonstração dos Métodos Epistemológicos](#Demonstração-dos-Métodos-Epistemológicos)
-    - [Razão Pura: Método A Priori (Dedução)](#Razão-Pura:-Método-A-Priori-(Dedução))
-    - [Experiência: Método A Posteriori (Indução)](#Experiência:-Método-A-Posteriori-(Indução))
+    - [Razão Pura: Método A Priori (Dedução)](#Razão-Pura:-Método-A-Priori-Dedução)
+    - [Experiência: Método A Posteriori (Indução)](#Experiência:-Método-A-Posteriori-Indução)
   - [Distinção Fenômeno-Númeno](#Distinção-Fenômeno-Númeno)
     - [Ilusão](#Ilusão)
   - [Ciências Naturais](#Ciências-Naturais)
@@ -90,6 +92,7 @@ Clique para expandir
   - [Argumentos e Tautologias](#Argumentos-e-Tautologias)
   - [Crença Verdadeira Justificada](#Crença-Verdadeira-Justificada)
 - [Fatos a Priori](#Fatos-a-Priori)
+
 </details>
 
 <br>
@@ -99,14 +102,15 @@ Clique para expandir
 - [Ontologia](#Ontologia)
   - [Substância](#Substância)
   - [Causalidade](#Causalidade)
-    - [Energia](#Energia)
+    - [Energia](#Energia-1)
     - [Aleatoriedade](#Aleatoriedade)
-    - [Determinismo vs. Livre Arbítrio](#Determinismo-vs.-Livre-Arbítrio)
+    - [Determinismo vs. Livre Arbítrio](#Determinismo-vs-Livre-Arbítrio)
   - [Por que Metafísica é Importante?](#Por-que-Metafísica-é-Importante)
 - [A visão de mundo cientificista](#A-visão-de-mundo-cientificista)
   - [Refutação do Idealismo](#Refutação-do-Idealismo)
   - [Interação Psico-Física](#Interação-Psico-Física)
     - [Determinismo Psico-Físico](#Determinismo-Psico-Físico)
+
 </details>
 
 <br>
@@ -148,9 +152,9 @@ Clique para expandir
     - [Deflação e Inflação](#Deflação-e-Inflação)
       - [Dinheiro como investimento](#Dinheiro-como-investimento)
 - [Lucro e Prejuízo](#Lucro-e-Prejuízo)
-  - [Cálculo Econômico](#lculo-Econômico)
-    - [Sistemas de Preços](#Sistemas-de-Preços)
-      - [Sociedade de Propriedade Privada](#)Sociedade de Propriedade Privada
+  - [Cálculo Econômico](#Cálculo-Econômico)
+    - [Sistema de Preços](#Sistema-de-Preços)
+      - [Sociedade de Propriedade Privada](#Sociedade-de-Propriedade-Privada)
         - [Sociedade Anti-Ética](#Sociedade-Anti-Ética)
         - [Coerção](#Coerção)
         - [Livre Mercado](#Livre-Mercado)
@@ -172,6 +176,7 @@ Clique para expandir
   - [Conhecimento Moral](#Conhecimento-Moral)
   - [Amor e ódio](#Amor-e-ódio)
     - [Refutação do Utilitarismo](#Refutação-do-Utilitarismo)
+
 </details>
 
 ## Filosofia
@@ -320,8 +325,7 @@ Dizer "x existe" é o mesmo que dizer "a quantidade de instâncias de x no mundo
 
 A existência, portanto, não é uma propriedade intrínseca de nenhum objeto, apenas a quantidade de instâncias que se pode atribuir a objetos em uma proposição.
 
-
-Dizer “x existe” ou “x não existe” é quantifcar x. Não existe uma coisa fora da linguagem que possa ser chamada de “existência”. A existência é apenas um conceito condicional à interpretação de fatos (experiência). Para que a mente identifique quaisquer estados de coisas (fatos) no mundo, ela os identifica em quantidades, inclusive na quantidade zero, quando a mente identifica algum estado de coisas como não-existente.
+Dizer “x existe” ou “x não existe” é quantificar x. Não existe uma coisa fora da linguagem que possa ser chamada de “existência”. A existência é apenas um conceito condicional à interpretação de fatos (experiência). Para que a mente identifique quaisquer estados de coisas (fatos) no mundo, ela os identifica em quantidades, inclusive na quantidade zero, quando a mente identifica algum estado de coisas como não-existente.
 
 Logo, é errado afirmar que “A existência existe" seja um axioma. Essa frase não significa nada. Não existe uma coisa que possa ser chamada de existência além da própria característica de proposições quantificarem conceitos. Postular existência como propriedade de objetos ou do mundo é um erro de linguagem, um uso errado da linguagem.
 
@@ -378,7 +382,6 @@ Como toda proposição é uma ação, as categorias da ação estão pressuposta
 Por isso, para se tentar negar as categorias da ação, elas precisam estar pressupostas na negação, logo a negação delas resulta numa contradição, demonstrando sua existência.
 
 ## Categorias da ação
-
 
 Categorias da ação são os conceitos implícitos e necessários para toda ação.
 
@@ -524,7 +527,7 @@ As crenças precisam ser verdadeiras para que a ação seja bem sucedida.
 
 O indivíduo precisa justificar a verdade de suas crenças, caso contrário, não poderia prever os resultados da sua ação. Conhecimento é a justificação do valor-verdade de proposições.
 
-- Epistemologia
+## Epistemologia
 
 Epistemologia é o estudo do conhecimento.
 
@@ -558,9 +561,9 @@ Logo, a ação pressupõe a crença na possibilidade de justificar proposições
 
 Logo, é contraditório negar o conhecimento, já que a própria negação é uma ação, na qual está implícita a crença (afirmação) de que existe conhecimento.
 
-##### Distinções Epistemológicas
+## Distinções Epistemológicas
 
-###### Demonstração das Distinções
+### Demonstração das Distinções
 
 Para que a mente aja, ela precisa distinguir entre diferentes tipos de conceitos e proposições.
 
@@ -574,17 +577,17 @@ Logo, as distinções condicional-fatual, a priori-a posteriori e interno-extern
 
 Logo, todo conhecimento se divide nessas distinções.
 
-###### Distinção Condicional-Fatual
+#### Distinção Condicional-Fatual
 
 Conhecimentos fatuais dizem que algo existe ou não existe (dizem a quantidade de algo no mundo), e conhecimentos condicionais dizem que há alguma condição da possibilidade da existência ou não-existência de algo.
 
-###### Conhecimento Condicional
+##### Conhecimento Condicional
 
 Conhecimentos condicionais dizem que uma certa coisa é condição da existência de outra.
 
 Toda proposição condicional pode ser formulada como “para toda quantidade x de y no mundo, há a quantidade w de z”, onde x e w são números inteiros.
 
-###### Conhecimento Fatual
+##### Conhecimento Fatual
 
 Proposições fatuais são quantitativas, pois elas dizem a quantidade de algo no mundo.
 
@@ -598,7 +601,7 @@ Tudo que pode ser justificado como existente por um sujeito, apenas o pode porqu
 
 Existência é quantificação, logo toda proposição fatual é uma quantificação, que pode ser formulada como “a quantidade de x no mundo é y”, onde y é um número inteiro.
 
-###### Demonstração de que sentenças analíticas, modais, imperativas, interrogativas ou normativas são redutíveis a proposições fatuais e condicionais (ou nonsense)
+##### Demonstração de que sentenças analíticas, modais, imperativas, interrogativas ou normativas são redutíveis a proposições fatuais e condicionais (ou nonsense)
 
 Sentenças consideradas analíticas, modais, imperativas, interrogativas ou normativas não são tipos fundamentais de proposições, mas sim construções linguísticas secundárias redutíveis a tipos fundamentais, são formas contingentes de se comunicar e não uma estrutura necessária de proposições.
 
@@ -646,17 +649,17 @@ Logo, a ideia de “dever absoluto”, “dever incondicional”, ou “imperati
 
 "X é possível" pode ser reduzido a "as condições necessárias de x existem" (fatual), ou “o fato x é compatível com a estrutura básica da realidade” (condicional).
 
-###### Distinção A Priori-A Posteriori
+#### Distinção A Priori-A Posteriori
 
 Conhecimentos a posteriori dependem da experiência, e a priori dependem apenas de dedução.
 
-###### Conhecimento A Priori
+##### Conhecimento A Priori
 
 Conhecimentos a priori são justificados pela razão pura.
 
 Toda proposição a priori não depende de verdades contingentes (que podem ser verdadeiras em um momento e falsas em outro), pois apenas a experiência pode justificá-las. Logo, toda proposição a priori é necessária (cujo valor verdade é sempre o mesmo, em qualquer contexto).
 
-###### Conhecimento A Posteriori
+##### Conhecimento A Posteriori
 
 Conhecimentos a posteriori são justificados pela experiência e indução. Todo conhecimento a posteriori é contingente.
 
@@ -666,7 +669,7 @@ A incerteza de proposições a posteriori é demonstrada pela distinção fenôm
 
 Como proposições a posteriori são incertas, a sua justificação não garante que sejam verdadeiras, e por isso, conhecimento não pode ser definido como “crença verdadeira justificada”. Uma crença a posteriori pode ser corretamente justificada e mesmo assim ser falsa. Conhecimento é apenas a justificação do valor-verdade de proposições.
 
-###### Distinção Interno-Externo
+#### Distinção Interno-Externo
 
 Conhecimentos internos dizem algo em primeira pessoa (que existe no próprio sujeito), e conhecimentos externos dizem algo em terceira pessoa (que existe fora do sujeito).
 
@@ -674,19 +677,19 @@ Alguns conhecimentos dizem uma relação entre coisas internas e externas, essas
 
 A distinção interno-externo, diferente das duas distinções anteriores, se aplica a conceitos que compõem proposições, por isso conceitos de ambos os tipos podem compor a mesma proposição, sendo um o sujeito e o outro o predicado da sentença.
 
-###### Conhecimento Interno
+##### Conhecimento Interno
 
 Proposições internas se referem a algo que existe em primeira pessoa, como por exemplo, uma sensação, uma ideia, uma experiência.
 
 Por exemplo, um pensamento, sentimento, sensação ou desejo são internos para o sujeito que os têm em primeira pessoa.
 
-###### Conhecimento Externo
+##### Conhecimento Externo
 
 Conhecimento externo diz algo que não está no próprio sujeito (que faz a proposição), como objetos físicos e outros sujeitos.
 
 Proposições externas se referem a algo que existe em terceira pessoa, ou seja, um estado de coisas que possa ser verificado por várias pessoas diferentes.
 
-###### Proposições Internas-Externas
+##### Proposições Internas-Externas
 
 Proposições internas-externas se referem a conceitos internos e externos simultaneamente, estando uma das referências no predicado e a outra no sujeito da sentença.
 
@@ -1118,7 +1121,7 @@ A metafísica, sendo o conhecimento das propriedades dos componentes básicos da
 
 Esse conhecimento é útil pois ao eliminar teorias inconsistentes com ele, estudos ou pesquisas inúteis também são evitados.
 
-- A visão de mundo cientificista
+## A visão de mundo cientificista
 
 A visão de mundo cientificista diz que a ciência pode explicar o mundo. Ela pode observar fenômenos microscópicos e formar a teoria de que a realidade se constitui desses fenômenos, e eles constituem os fenômenos macroscópicos.
 
@@ -1130,7 +1133,7 @@ Logo, não se pode conhecer a realidade fundamental por observação, mas apenas
 
 Nem sequer é possível, cientificamente, afirmar que os fenômenos microscópicos sempre constituem os macroscópicos. É possível que um fenômeno microscópico pudesse ser uma ilusão.
 
-### Refutação do Idealismo:
+### Refutação do Idealismo
 
 Se o conhecimento é derivado da estrutura da ação, e a ação segue a estrutura da mente, por que isso serviria como base para conhecer um mundo físico, que exista fora da mente? Por que não concluir o idealismo, que afirma que tudo que existe é mental?  A resposta é de que a ação pressupõe uma interação entre as realidades subjetiva (mental) e objetiva (física). Para que essa interação ocorra, a estrutura da ação precisa obedecer o funcionamento de ambas. Logo, se pode conhecer certas verdades sobre a natureza física através do axioma da ação, que são verdades necessárias a priori.
 
@@ -1195,7 +1198,6 @@ O indivíduo poupa quando acumula recursos no presente para que possa usar no fu
 Investimento é o uso de recursos acumulados, com o fim de produzir recursos ainda mais valiosos.
 
 ##### Custo de Oportunidade
-
 
 Toda ação (incluindo investimento e produção) inclui em seu custo os fins que foram renunciados (que poderiam ter sido alcançados caso outra ação fosse escolhida). Esse é o custo de oportunidade.
 
